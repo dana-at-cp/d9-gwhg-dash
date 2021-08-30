@@ -1,0 +1,23 @@
+{
+  "name": "d9-gwhg-dash",
+  "version": "1.0.0",
+  "description": "A utility for pulling assessment data from Dome9.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dana-at-cp/d9-gwhg-dash.git"
+  },
+  "author": "Dana James Traversie",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/dana-at-cp/d9-gwhg-dash/issues"
+  },
+  "homepage": "https://github.com/dana-at-cp/d9-gwhg-dash#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "moment": "^2.29.1"
+  }
+}
